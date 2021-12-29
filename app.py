@@ -1,4 +1,3 @@
-  GNU nano 4.8                                                                              proxy.py                                                                               Modified  from flask import Flask,request,redirect,Response
 import requests
 app = Flask(__name__)
 
